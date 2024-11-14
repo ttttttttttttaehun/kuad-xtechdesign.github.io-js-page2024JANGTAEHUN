@@ -1,1 +1,1 @@
-# kuad-xtechdesign.github.io-js-page2024JANGTAEHUN
+# js-various
